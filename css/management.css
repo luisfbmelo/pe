@@ -1,0 +1,228 @@
+
+/*
+-----
+GENERAL
+-----
+*/
+.managementCrumbs{
+    margin:0 15px!important;
+}
+
+.errorSummary{
+    margin:15px;
+    border:1px solid #a94442;
+    color: #a94442;
+    font-size: 1em;
+    padding: 15px;
+
+}
+
+.indexMan .projBox:hover{
+    cursor:default!important;
+}
+
+.indexMan .projDetail{
+    min-height:120px!important;
+}
+
+.indexMan .projButtons{
+    padding:10px 15px;
+}
+
+.ajaxMes{
+    display:none;
+}
+
+/*
+----
+Status Message
+----
+*/
+.statusBox{
+    width:100%;
+    position:absolute!important;
+    top:-5%!important;
+    z-index:9999;
+    text-align:center;
+    font-size:10px;
+}
+
+.statusMessage{
+    display:inline-block;
+    width:auto;
+    margin:0 auto;
+    font-size:1.4em;
+    text-align:center;
+    padding:5px;
+}
+
+.flash-success{
+    background:#e7ffe4;
+    border:2px solid #adffa2;
+    color:#2b6423;
+}
+
+
+/*
+-----
+LOGIN
+-----
+*/
+.login{
+    font-family: 'Open Sans', sans-serif;
+    background:#faf9f9;
+    height:100%;
+}
+
+.loginForm{
+    margin:0 auto;
+    width:30%;
+    position:relative;
+    top:50%;
+    background:#fff;
+    padding:20px;
+    border:1px solid #cccccc;
+}
+
+.login h1{
+    margin-top: 1px!important;
+    margin-bottom:20px!important;
+    font-family: 'Tahoma', sans-serif;
+    font-weight: 700;
+    font-size: 1.9375em;
+    color: #4670a3;
+    text-align: center;
+}
+
+#login-form .row{
+    margin:0!important;
+}
+
+/*
+-----
+CGRIDVIEW
+-----
+*/
+.minHeight{
+    min-height:100%;
+}
+
+.grid-view table.items{
+    font-family: 'Tahoma', sans-serif;
+    border:none!important;
+}
+
+.grid-view table.items th, .grid-view table.items th a{
+    color:#0d0d0d!important;
+}
+.grid-view table.items th,
+.grid-view table.items tr{
+    border-top: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+}
+
+.grid-view table.items tr.odd{
+    background-color: #f9f9f9!important;
+}
+
+.grid-view table.items tr.even{
+    background-color: #fff!important;
+}
+
+.actionBtn, .actionBtn:hover{
+    padding:5px;
+    color:#0d0d0d;
+    text-decoration:none;
+}
+
+.actionBtn:hover{
+    color:#777777;
+}
+
+.pagElements{
+    width:100%;
+    text-align:center!important;
+}
+
+.pagination .first,.pagination .last{
+    display:none!important;
+}
+
+/*
+-----
+NEW ITEM
+-----
+*/
+#projects, #supervision, #consulting {
+    font-size:10px!important;
+    font-size:1.4em!important;
+}
+
+#projects label, #supervision label, #consulting label{
+    display:block!important;
+}
+
+#projects .row, #supervision .row, #consulting .row{
+
+    margin:0!important;
+    margin: 0 0 15px 0!important;
+}
+
+#projects #isNews, #supervision #isNews, #consulting #isNews{
+    width:auto!important;
+}
+
+#Projects_specs label{
+    font-weight:normal!important;
+    display:inline-block!important;
+}
+
+.imgNote{
+    font-size:0.9em;
+    padding:5px;
+}
+
+/*
+-----
+IMAGES PREVIEW
+-----
+*/
+.rmar{
+    /*margin-right:0!important;*/
+}
+
+.uploaded_image{
+    float:left;
+    max-width:264px;
+    height:175px;
+    overflow:hidden;
+    margin-right:15px;
+    margin-bottom:15px;
+    font-family: 'Open Sans', sans-serif;
+    font-size:10px;
+}
+
+.uploaded_image img{
+    max-width:264px;
+}
+
+.uploaded_image .multifile_remove_input{
+     font-size:1.4em;
+     padding-bottom:10px;
+     color: #0d0d0d;
+ }
+
+.uploaded_image .multifile_remove_input:hover{
+    color: #777777;
+    text-decoration: none;
+}
+
+.uploaded_image .filename{
+    font-size:1.4em;
+    padding-bottom:10px;
+}
+
+.oldRemove:hover{
+    cursor:pointer;
+
+}

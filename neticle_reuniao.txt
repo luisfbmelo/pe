@@ -1,0 +1,37 @@
+Falar como chegamos até ele
+
+GRUPO
+- Quem somos;
+   - Pretendemos com esta parceria dar o primeiro impulso à neticle
+   - Falar das áreas de cada uma 
+- O que fazemos;
+   - Consutoria, desenvolvimento web e de software, mobile;
+ 
+- portfolio;
+   - A desenvolver um Plataforma-Aurea (e uma framework PHP)
+   - Site da loja do adriano
+   - Trabalho do Sismo d'Oitenta
+   - Trabalho para SMILE Consortium (organização sem fins lucrativos)
+      - Server side development (NODEJS)
+      - Pendente a adjudicação do FrontEnd
+
+- pessoal qualificado para dar formação
+- experiencia em desenvolvimento colaborativo, gestão de projetos
+
+- aptos para fazer suporte presencial
+   - larga experiencia de suporte técnico, aplicacional e operacional
+   - pessoal com 4 e 10 anos
+
+   - DARIO
+        - 3 anos de suporte de aplicações, tem backgrounds, 
+        - team leader na SONAECOM
+        - equipa de suporte e desenvolvimento da ferramenta de aprovisionamento
+        - trabalhos para Ministério do Interior de Angola
+        - ferramenta workflow de aprovisionamento
+
+   - LOPES
+        - já se deu suportes na CMAH
+        - na tomás de borba (escola)
+
+   - clientes na área das TIC
+
