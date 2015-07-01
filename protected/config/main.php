@@ -67,21 +67,7 @@ return array(
 		// uncomment the following to use a MySQL database
 
 		'db'=>array(
-            'connectionString' => 'mysql:host=localhost;dbname=costapo_pe',
-            'emulatePrepare' => true,
-            'username' => 'costapo_pe',
-            'password' => 'peadwebsite',
-            'charset' => 'utf8',
-            /*'connectionString' => 'mysql:host=localhost;dbname=luisfbme_pe',
-			'emulatePrepare' => true,
-			'username' => 'luisfbme_pe',
-			'password' => 'peadwebsite',
-			'charset' => 'utf8',*/
-            /*'connectionString' => 'mysql:host=localhost;dbname=pe',
-            'emulatePrepare' => true,
-            'username' => 'root',
-            'password' => '',
-            'charset' => 'utf8',*/
+            		//ENTER DB CONFIG HERE
 		),
 
 		'errorHandler'=>array(
@@ -110,8 +96,7 @@ return array(
 	'params'=>array(
 		// this is used in contact page
 		'adminEmail'=>'p.e@mail.telepac.pt',
-        //'adminEmail'=>'luisfbmelo91@gmail.com',
-        'hashSalt'=>'lkaqjoijDSAOjdoaks',
+        'hashSalt'=>'123',
 
         'pageIMG'=>'/images/logo_face.png',
         'globalIMG'=>'/images/logo_face.png',
